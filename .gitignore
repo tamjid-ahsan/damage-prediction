@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/all_dtype_corrected.joblib
+data/all_merged_df.joblib
+data/joined_df.joblib
+data/NOAA Data (1997-2021).xlsx
